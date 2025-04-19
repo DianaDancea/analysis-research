@@ -1,3 +1,4 @@
+#changed
 # This is a sample Python script.
 
 # Press ⌃R to execute it or replace it with your code.
@@ -14,5 +15,3 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-#Added this comment to see if it works
